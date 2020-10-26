@@ -1,3 +1,5 @@
 body{text-align: center; color: white; background-color: rgb(42, 42, 42);}
 #nbar{border: red solid 2px; margin: auto; border-radius: 10px;width: 135px; text-align: center;}
 li{color: cyan;}
+.flex-container {display: flex;
+flex-direction: column;}
